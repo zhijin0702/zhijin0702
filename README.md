@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/GD9UKMwnxYIAAAAM/ngoding-mulu.gif" alt="MasterHead" width="100%">
+  <img src="https://media.tenor.com/GD9UKMwnxYIAAAAM/ngoding-mulu.gif" alt="MasterHead" width="70%">
 </div>
 <h1 align="center">hello, im zhi jin!</h1>
 <h3 align="center">a passionate data science student :D</h3>
@@ -29,17 +29,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zhijin0702&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=zhijin0702&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="www.linkedin.com/in/gan-zhi-jin" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="ganzhijin0702@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
