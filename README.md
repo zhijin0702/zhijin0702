@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/119114162/224994258-80e12746-1bc3-4502-ac06-52570e2c7a83.gif" alt="MasterHead" width="100%">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/1599d7107019725.5f9d3c7bae636.gif" alt="MasterHead" width="100%">
 </div>
 <h1 align="center">hello, im zhi jin!</h1>
 <h3 align="center">a passionate data science student :D</h3>
